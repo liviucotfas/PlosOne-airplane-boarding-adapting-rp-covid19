@@ -12,6 +12,7 @@ All the simulations have been performed using the following settings:
 
 > Suggestions: 
 > 1. You can download the animations below in order to watch them at a higher resolution.
+> 2. Click on the animations to view the associated video on YouTube.
 
 ### RP - 2 groups
 #### Aisle distancing: 1.0m
