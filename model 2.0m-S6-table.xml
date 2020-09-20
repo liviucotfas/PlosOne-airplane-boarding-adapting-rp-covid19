@@ -1,0 +1,36 @@
+<experiment name="1.0m-S6" repetitions="10000" sequentialRunOrder="false" runMetricsEveryStep="false">
+  <setup>setup</setup>
+  <go>go</go>
+  <metric>ticks</metric>
+  <metric>total-seating-interference-type-3-no</metric>
+  <metric>risk-aisle-seats</metric>
+  <metric>risk-window-seats</metric>
+  <enumeratedValueSet variable="Airplane-model">
+    <value value="&quot;A320 (30 rows - 180 seats)&quot;"/>
+  </enumeratedValueSet>
+  <enumeratedValueSet variable="Situation">
+    <value value="&quot;S6&quot;"/>
+  </enumeratedValueSet>
+  <enumeratedValueSet variable="Passenger-number">
+    <value value="120"/>
+  </enumeratedValueSet>
+  <enumeratedValueSet variable="Aisle-distancing">
+    <value value="&quot;2.0m&quot;"/>
+  </enumeratedValueSet>
+  <enumeratedValueSet variable="Number-of-seat-rows">
+    <value value="30"/>
+  </enumeratedValueSet>
+  <enumeratedValueSet variable="Seat-allocation-method">
+    <value value="&quot;rp-2-groups&quot;"/>
+    <value value="&quot;rp-3-groups&quot;"/>
+    <value value="&quot;rp-spread-4-groups&quot;"/>
+    <value value="&quot;rp-spread-5-groups&quot;"/>
+    <value value="&quot;rp-spread-6-groups&quot;"/>
+    <value value="&quot;rp-steep-4-groups&quot;"/>
+    <value value="&quot;rp-steep-5-groups&quot;"/>
+    <value value="&quot;rp-steep-6-groups&quot;"/>
+  </enumeratedValueSet>
+  <enumeratedValueSet variable="simulation-mode">
+    <value value="&quot;normal&quot;"/>
+  </enumeratedValueSet>
+</experiment>
