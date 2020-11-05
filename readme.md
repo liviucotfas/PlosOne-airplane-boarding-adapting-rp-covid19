@@ -1,6 +1,6 @@
 Recordings of the simulations presented in 
 ### **"Adapting the Reverse Pyramid Airplane Boarding Method for Social Distancing in Times of COVID-19"** 
-submitted to the `PLOS ONE` journal. 
+published in the `PLOS ONE` journal. 
 
 Please feel free to contact us at liviu.cotfas at ase .ro for further details. 
 
